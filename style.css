@@ -1,0 +1,74 @@
+.editButton {
+  height: 40px;
+  border-radius: 20px ;
+  width: 100px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bolder;
+    margin-left: 60px;
+  }
+
+  body{
+    background-color: cadetblue;
+    
+  }
+  .myApp{
+    width: 600px;
+    height: 800px;
+    background-color: burlywood;
+    margin-top: 5%;
+    margin-left: 25%;
+    padding-left: 5%;
+    padding-top: 5%;
+    border-radius: 10%;
+    border: solid white 2px;
+
+  }
+  .heading{
+    font-size: 50px;
+    padding-right: 10%;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+  }
+
+  .input{
+    width: 300px;
+    border-radius: 12px;
+    height: 40px;
+    border: solid 3px black;
+  }
+  .addButton{
+    margin-left: 6%;
+    height: 40px;
+    border-radius: 20px ;
+    width: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+  }
+  .dltButton{
+    
+    height: 40px;
+    border-radius: 20px ;
+    width: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    background-color: red;
+    margin-left: 3%;
+  }
+.saveBtn{
+  height: 40px;
+    border-radius: 20px ;
+    width: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    margin-left: 6%;
+    background-color: green;
+
+}
+
+.myLi{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  font-size: x-large;
+
+}
